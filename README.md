@@ -1,6 +1,4 @@
 # area_aprendizado
-Área de estudo, repositorio criado para organizar os meus estudos em programação.
-
 # Assuntos
 
 ## Python
