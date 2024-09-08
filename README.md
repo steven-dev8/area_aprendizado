@@ -5,36 +5,23 @@
 ### O que eu estudei até agora
 
 - **Fundamentos de Python:**
-  - Tipos de dados
-  - Estruturas de controle
+  - Sintaxe
+  - Condicionais
+  - Estruturas de repetição
+  - Listas, tuplas e dicionários
   - Funções
 
 - **Programação Orientada a Objetos:**
   - Herança
-  - Polimorfismo
-  - Encapsulamento
-
-- **Bibliotecas e Ferramentas:**
-  - `pandas`
-  - `numpy`
-  - `matplotlib`
 
 ## Front-end
 
 ### O que eu estudei até agora
 
 - **HTML e CSS:**
-  - Layouts responsivos
-  - Flexbox
-  - Grid
+  - Sintaxe
+  - Estrutura e Hierarquia
 
 - **JavaScript:**
-  - Manipulação do DOM
-  - Eventos
-  - Fetch API
-
-- **Frameworks e Bibliotecas:**
-  - React
-  - Vue.js
-  - Bootstrap
+  ⏳
 
