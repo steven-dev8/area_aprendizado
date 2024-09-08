@@ -1,0 +1,5 @@
+print('Loja de carros do Araújo')
+name = input('Digite o nome do cliente: ')
+a = int(input('Digite quantos dias o carro foi alugado: '))
+b = int(input('Digite quantos Km foi percorrido: '))
+print(f'CLIENTE: {name}, VALOR A SER COBRADO: R${(a * 60)+(0.15 * b)}')

@@ -1,0 +1,15 @@
+body {
+    background-color: gray;
+}
+h1 {
+    font-size: 25px;
+    color: lightsalmon;
+}
+h2 {
+    font-size: 20px;
+    color: maroon;
+}
+p {
+    text-align: justify;
+    color: bisque;
+}

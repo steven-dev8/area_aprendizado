@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias</title>
+</head>
+<body>
+    <h1>Imagens adaptadas</h1>
+    <p>A imagem abaixo se adapta a dispositivos diferentes dependendo do tamanho da tela.</p>
+    <picture>
+        <source media="(max-width: 710px)" srcset="img/img-p.png" type="image/png">
+        <source media="(max-width: 1105px)" srcset="img/img-m.png" type="image/png">
+        <img src="img/img-g.png" alt="img-g">
+    </picture>
+    <h2>Áudio no navegador em HTML5</h2>
+    <audio src="media/op-hxh.mp3" controls></audio>
+    <p>Audio com a tag source</p>
+    <audio preload="metadata" controls>
+        <source src="media/op-hxh.mp3" type="audio/mpeg">
+        <source src="media/op-hxh.ogg" type="audio/ogg">
+        <source src="media/op-hxh.wav" type="audio/wav">   
+    </audio>
+    <p>Infelizmente o áudio não foi carregado, <a href="media/op-hxh.mp3" download="hunting">baixe o audio.</a></p>
+</body>
+</html>
