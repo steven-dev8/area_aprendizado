@@ -1,34 +1,43 @@
 # area_aprendizado
 Área de estudo, repositorio criado para organizar os meus estudos em programação.
 
-ASSUNTOS:
+# Assuntos
 
-  Python:
-  ✅Sintaxe básica
-  
-  ✅Tipos de variáveis
-  
-  ✅Estruturas de repetição
-  
-  ✅Tuplas, listas e dicionários
-  
-  ✅Funções
-  
-  ⏳Modularização
-  
-  ⏳Tratamento de erros
-  
-  ⏳POO (Programação Orientada a Objeto)
-  
+## Python
 
-  Front-end:
-  
-    HTML e CSS:
-    
-    ✅Sintaxe básica
-    
-    ✅Uso de tags
-    
-    ✅Estrutura e hierarquia
+### O que eu estudei até agora
 
-    JavaScript: ⏳
+- **Fundamentos de Python:**
+  - Tipos de dados
+  - Estruturas de controle
+  - Funções
+
+- **Programação Orientada a Objetos:**
+  - Herança
+  - Polimorfismo
+  - Encapsulamento
+
+- **Bibliotecas e Ferramentas:**
+  - `pandas`
+  - `numpy`
+  - `matplotlib`
+
+## Front-end
+
+### O que eu estudei até agora
+
+- **HTML e CSS:**
+  - Layouts responsivos
+  - Flexbox
+  - Grid
+
+- **JavaScript:**
+  - Manipulação do DOM
+  - Eventos
+  - Fetch API
+
+- **Frameworks e Bibliotecas:**
+  - React
+  - Vue.js
+  - Bootstrap
+
