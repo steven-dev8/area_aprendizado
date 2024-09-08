@@ -6,6 +6,7 @@
 
 - **Fundamentos de Python:**
   - Sintaxe
+  - Tipos de dados
   - Condicionais
   - Estruturas de repetição
   - Listas, tuplas e dicionários
