@@ -1,4 +1,3 @@
-# area_aprendizado
 # Assuntos
 
 ## Python
