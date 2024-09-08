@@ -21,7 +21,7 @@
 - **HTML e CSS:**
   - Sintaxe
   - Estrutura e Hierarquia
+  - Uso de atributos
 
 - **JavaScript:**
   ⏳
-
