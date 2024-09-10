@@ -30,10 +30,10 @@ def resumo(moeda, aumentar, diminuir):
     aumento = 1 + (aumentar / 100)
     reducao = 1 - (diminuir / 100)
 
-    dobro = (str(((moeda * 2)))).replace('.', ',')
-    metade = (str(moeda / 2)).replace('.', ',')
-    aumento = (str(moeda * aumento)).replace('.', ',')
-    reducao = (str(moeda * reducao)).replace('.', ',')
+    dobro = (str((f'{(moeda * 2):.2f}'))).replace('.', ',')
+    metade = (str(f'{(moeda / 2):.2f}')).replace('.', ',')
+    aumento = (str(f'{(moeda * aumento):.2f}')).replace('.', ',')
+    reducao = (str(f'{(moeda * reducao):.2f}')).replace('.', ',')
 
     return (f'{'RESUMO DO VALOR': >20}\n'
             f'Preço analisado: R${(str(moeda)).replace('.', ',')}\n'
