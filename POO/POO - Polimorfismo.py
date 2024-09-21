@@ -17,6 +17,5 @@ def fazer_barulho_do_animal(animal):
 cachorro = Cachorro()
 gato = Gato()
 
-# Chamando a função com diferentes tipos de objetos
-fazer_barulho_do_animal(cachorro)  # Saída: O cachorro faz: Au Au!
-fazer_barulho_do_animal(gato)      # Saída: O gato faz: Miau!
+cachorro.fazer_barulho()
+gato.fazer_barulho()
